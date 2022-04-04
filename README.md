@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Kelly, a software developer that mostly works on application software in C++. Occasionally I like to experiment in areas completely different from my usual work, such as mobile app development and backend web development. I use my github mainly for hosting these hobby projects or for saving tutorials I've completed for future reference.
+I'm Kelly, a software developer that mostly works on application software in C++. Occasionally I like to experiment in areas completely different from my usual work, such as mobile app development and backend web development. I use my github mainly for hosting these hobby projects.
 
 - 🌱 I’m currently trying to learn Go and how to develop backend applications.
 
